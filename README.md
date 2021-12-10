@@ -1,7 +1,7 @@
 Frontend feito usando create-react-app, nodejs e sqlite3. 
 Um sistema simples para controle interno de uma loja ou emprea. O Cliente não vai fazer login com senha e nome de usuario, mas com o id que será gerado para ele no momento do cadastramento, depois disso ele terá acesso aos produtos disponiveis no estoque. No frontend também tera outros campos como cadastrar produtos, editar o preço, quantidade no estoque, ou deletar produto. Temos o menu, onde o dono terá acesso a pedidos, clientes, produtos e entrega, que vai de cadastrar à editar e deletar esses campos.
 
-Tentei hospedar o frontend no netlify, porém não sei se vai funcionar https://amazing-lamport-a48bca.netlify.app
+Tentei hospedar o frontend no netlify, porém não sei se vai funcionar e ter acesso aos outras páginas, além do login e cadastar empresa. https://amazing-lamport-a48bca.netlify.app
  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
